@@ -18,12 +18,14 @@ Foram utilizados recursos como:
 - Integração entre `index.php` e `resultados.php`
 - Estilização básica com HTML e CSS
 
-## Explicação do Projeto e Instruções de Execução
-### Estrutura
+## Estrutura
 - `index.php`: Formulário de pesquisa onde o usuário digitará o ano de consulta.
 - `resultados.php`: Realiza a requisição à API e exibe os dados processados.
 
-### Como Executar
+## Requisição no Postman
+![Requisição no Postman](postman_get.png)
+
+## Como Executar
 1. Faça o clone ou download do repositório:
    ```bash
    git clone https://github.com/aisha-ramiro/programacaoweb_api.git
